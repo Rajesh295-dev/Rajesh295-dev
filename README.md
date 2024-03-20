@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 
 👋 Hey there! My coding journey began after I completed my associate degree in Information Technology from my local community college 🏫 CCBC. Eager to delve deeper into the world of coding ⌨️, I took the plunge and enrolled in John Hopkins University's Coding Boot Camp 💻
 
