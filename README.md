@@ -5,7 +5,7 @@
 
 🌍 Based in Baltimore, Maryland 🇺🇸
 
-✉️ You can reach out to me at rajeshgautam766@yahoo.com
+✉️ You can reach out to me at [rajeshgautam766@yahoo.com](mailto:rajeshgautam766@yahoo.com)
 
 💻 Currently, I'm diving deep into Next.js to enhance my web development skills further.
 
@@ -13,10 +13,10 @@
 
 Skills 💪🏻
 
-📝 JavaScript
-🍃 MongoDB
-🚀 Express
-⚛️ React
-📡 Node.js
-🔖 Next.js
-🎨 TailwindCSS
+- 📝 JavaScript
+- 🍃 MongoDB
+- 🚀 Express
+- ⚛️ React
+- 📡 Node.js
+- 🔖 Next.js
+- 🎨 TailwindCSS
