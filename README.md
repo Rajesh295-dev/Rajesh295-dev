@@ -1,10 +1,22 @@
 
 ### 👋 Hey there! 
 
-👣 My coding journey began after I completed my associate degree in Information Technology from my local community college 🏫 CCBC. Eager to delve deeper into the world of coding ⌨️, I took the plunge and enrolled in John Hopkins University's Coding Boot Camp 💻
+👨‍💻 I'm a coding enthusiast with a diverse educational background, starting with earning my Associate degree in Information Technology from CCBC, followed by completing the intensive Johns Hopkins University Coding Bootcamp, and culminating in graduating with a Computer Science degree from Wilmington University. Each step of my journey has fueled my passion for coding and software development.
 
-🎓 Graduated from John Hopkins University's Coding Boot Camp and later obtained a Computer Science Degree from Wilmington University 🏫
+🌍 Based in Baltimore, Maryland 🇺🇸
 
-👨🏻‍💻 Constantly expanding skills, exploring tech, and eager to collaborate on impactful projects 📊 
+✉️ You can reach out to me at rajeshgautam766@yahoo.com
 
-🌱 Let's connect, collaborate, and code something awesome together🙏
+💻 Currently, I'm diving deep into Next.js to enhance my web development skills further.
+
+🤝 Let's connect, collaborate, and code something awesome together 🙏
+
+Skills 💪🏻
+
+📝 JavaScript
+🍃 MongoDB
+🚀 Express
+⚛️ React
+📡 Node.js
+🔖 Next.js
+🎨 TailwindCSS
