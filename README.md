@@ -1,7 +1,7 @@
 
 ### 👋 Hey there! 
 
-👨‍💻 I'm a coding enthusiast with a diverse educational background, starting with earning my Associate degree in Information Technology from CCBC, followed by completing the intensive Johns Hopkins University Coding Bootcamp, and culminating in graduating with a Computer Science degree from Wilmington University. Each step of my journey has fueled my passion for coding and software development.
+👨‍💻 I'm a coding enthusiast with a diverse educational background, starting with earning my Associate degree in Information Technology from CCBC, followed by completing the intensive Johns Hopkins School of Engineering Coding Bootcamp, and culminating in graduating with a Computer Science degree from Wilmington University. Each step of my journey has fueled my passion for coding and software development.
 
 🌍 Based in Baltimore, Maryland 🇺🇸
 
