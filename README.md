@@ -19,4 +19,9 @@ Skills 💪🏻
 - ⚛️ React
 - 📡 Node.js
 - 🔖 Next.js
-- 🎨 TailwindCSS
+- 🏮NextAuth
+- 🏮JWT 
+- 🎨 CSS
+- - 🎨 SCSS
+  - - - 🎨 TailwindCSS
+  
