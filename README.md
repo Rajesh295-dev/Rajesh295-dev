@@ -1,5 +1,5 @@
 
-  👋 Hey there!
+  👋 Hey there, Welcome to my GItHub Page!
 
 👨‍💻 I’m a passionate Full Stack Engineer with a strong foundation in software development, honed through a diverse educational journey. I began with an Associate degree in Information Technology from CCBC, advanced my skills at the Johns Hopkins School of Engineering Coding Bootcamp, and solidified my expertise with a Computer Science degree from Wilmington University. My path has been fueled by a deep enthusiasm for coding and a drive to build impactful software solutions.
 
