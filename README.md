@@ -1,27 +1,32 @@
 
-### 👋 Hey there! 
+  👋 Hey there!
 
-👨‍💻 I'm a coding enthusiast with a diverse educational background, starting with earning my Associate degree in Information Technology from CCBC, followed by completing the intensive Johns Hopkins School of Engineering Coding Bootcamp, and culminating in graduating with a Computer Science degree from Wilmington University. Each step of my journey has fueled my passion for coding and software development.
+👨‍💻 I’m a passionate Full Stack Engineer with a strong foundation in software development, honed through a diverse educational journey. I began with an Associate degree in Information Technology from CCBC, advanced my skills at the Johns Hopkins School of Engineering Coding Bootcamp, and solidified my expertise with a Computer Science degree from Wilmington University. My path has been fueled by a deep enthusiasm for coding and a drive to build impactful software solutions.
 
 🌍 Based in Baltimore, Maryland 🇺🇸
 
-✉️ You can reach out to me at [rajeshgautam766@yahoo.com](mailto:rajeshgautam766@yahoo.com)
+✉️ Feel free to reach out to me at rajeshgautam766@yahoo.com
 
-💻 Currently, I'm diving deep into Next.js to enhance my web development skills further.
+💻 I specialize in developing and deploying scalable, full-stack web applications, with a strong emphasis on cloud-native solutions using AWS. My experience ensures robust infrastructure management, efficient backend systems, and dynamic, responsive front-end experiences.
 
-🤝 Let's connect, collaborate, and code something awesome together 🙏
+🤝 I’m always excited to connect, collaborate, and create something extraordinary together 🙏
 
 Skills 💪🏻
 
-- 📝 JavaScript
-- 🍃 MongoDB
-- 🚀 Express
-- ⚛️ React
-- 📡 Node.js
-- 🔖 Next.js
-- 🏮NextAuth
-- 🏮JWT 
-- 🎨 CSS
-- - 🎨 SCSS
-  - - - 🎨 TailwindCSS
-  
+	•	Backend Development:
+	•	⌨️ Java - Building secure, scalable server-side applications.
+	•	📝 Node.js - Crafting performant backend services with JavaScript.
+	•	🍃 MongoDB - Managing data with a flexible, NoSQL database.
+	•	🚀 Express - Developing RESTful APIs and middleware.
+	•	🏮 JWT - Implementing secure authentication and authorization.
+	•	Frontend Development:
+	•	⚛️ React - Designing interactive, user-friendly interfaces.
+	•	📝 JavaScript - Core scripting language for dynamic web development.
+	•	📝 TypeScript - Enhancing JavaScript with static typing.
+	•	🔖 Next.js - Building server-rendered React applications for optimal performance.
+	•	🎨 CSS, SCSS, TailwindCSS - Styling beautiful, responsive layouts.
+	•	Authentication & Security:
+	•	🏮 NextAuth - Seamless authentication for Next.js applications.
+	•	🏮 JWT - Secure token-based authentication systems.
+	•	Cloud & DevOps:
+	•	☁️ AWS - Expertise in cloud infrastructure management and deployment.
