@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-👋 Hey there, Welcome to my GItHub Page!<br><br>👨‍💻 I’m a passionate Full Stack Engineer with a strong foundation in software development, honed through a diverse educational journey. I began with an Associate degree in Information Technology from CCBC, advanced my skills at the Johns Hopkins School of Engineering Coding Bootcamp, and solidified my expertise with a Computer Science degree from Wilmington University. My path has been fueled by a deep enthusiasm for coding and a drive to build impactful software solutions.<br><br>🌍 Based in Baltimore, Maryland 🇺🇸<br><br>✉️ Feel free to reach out to me at rajeshgautam766@yahoo.com<br><br>💻 I specialize in developing and deploying scalable, full-stack web applications, with a strong emphasis on cloud-native solutions using AWS. My experience ensures robust infrastructure management, efficient backend systems, and dynamic, responsive front-end experiences.<br><br>🤝 I’m always excited to connect, collaborate, and create something extraordinary together 🙏<br>
+👋 Hey there, Welcome to my GItHub Page!<br><br>👨‍💻I specialize in developing and deploying scalable, full-stack web applications, with a strong emphasis on cloud-native solutions using AWS. My experience ensures robust infrastructure management, efficient backend systems, and dynamic, responsive front-end experiences.<br><br>🌍 Based in Baltimore, Maryland 🇺🇸<br><br>✉️ Feel free to reach out to me at rajeshgautam766@yahoo.com<br><br>🤝 I’m always excited to connect, collaborate, and create something extraordinary together 🙏<br>
 
 
 ## 🌐 Socials:
