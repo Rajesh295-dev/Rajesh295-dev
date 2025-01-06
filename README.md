@@ -5,9 +5,9 @@
 
 
 
-.  🌍 Based in Baltimore🦀, Maryland 🇺🇸
-.  ✉️ Feel free to reach out to me at rajeshgautam766@yahoo.com
-.  🤝 I’m always excited to connect, collaborate, and create something extraordinary together 🙏
+-- 🌍 Based in Baltimore🦀, Maryland 🇺🇸
+-- ✉️ Feel free to reach out to me at rajeshgautam766@yahoo.com
+-- 🤝 I’m always excited to connect, collaborate, and create something extraordinary together 🙏
 
 ### 🖥️ Backend Development
 
