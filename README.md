@@ -3,17 +3,9 @@
 ## 👋 Welcome to my GitHub Page!
 <br>👨‍💻Specializes in creating full-stack web applications, with a strong emphasis on cloud-native solutions using AWS. Experience ensures robust infrastructure management, efficient backend systems, and dynamic, responsive front-end experiences.
 
-
-
 - 🌍 Based in Baltimore🦀, Maryland 🇺🇸
 - ✉️ Feel free to reach out to me at rajeshgautam766@yahoo.com
 - 🤝 I’m always excited to connect, collaborate, and create something extraordinary together 🙏
-
-### 🖥️ Backend Development
-
-- ⌨️ **Java** - Building secure, scalable server-side applications.  
-- ☕ **Spring Boot** - Rapidly developing robust REST APIs and microservices with Java.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://linkedin.com/in/rajesh-gautam-472511218) 
