@@ -7,8 +7,8 @@
 - 🤝 **Let’s Connect**: Always excited to collaborate and create something extraordinary together 🙏  
  
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://linkedin.com/in/rajesh-gautam-472511218) 
+## 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://linkedin.com/in/rajesh-gautam-472511218) 
+
 
 # 💻 Tech Stack:
 
