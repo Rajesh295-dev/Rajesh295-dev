@@ -45,7 +45,7 @@ Specializes in crafting full-stack web applications, with a strong emphasis on c
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rajesh295-dev&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false) <br><br>
+![](https://github-readme-stats.vercel.app/api?username=Rajesh295-dev&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)  &nbsp;&nbsp;&nbsp;&nbsp;
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rajesh295-dev&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajesh295-dev&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
