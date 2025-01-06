@@ -52,6 +52,12 @@ Specializes in crafting full-stack web applications, with a strong emphasis on c
 ---
 [![](https://visitcount.itsvg.in/api?id=Rajesh&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajesh295-dev&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajesh295-dev&theme=github_dark&hide_border=false" alt="GitHub Streak" />
+</div>
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
