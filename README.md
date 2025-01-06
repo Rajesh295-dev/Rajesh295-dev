@@ -24,7 +24,7 @@
 
 ---
 ### 🔒 Security Stack
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![NextAuth](https://img.shields.io/badge/NextAuth-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white) ![OAuth](https://img.shields.io/badge/OAuth-1C1C1C?style=for-the-badge&logo=oauth&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NextAuth](https://img.shields.io/badge/NextAuth-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white) ![OAuth](https://img.shields.io/badge/OAuth-1C1C1C?style=for-the-badge&logo=oauth&logoColor=white)
 
 ---
 
