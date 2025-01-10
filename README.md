@@ -1,6 +1,5 @@
 # 👋 Welcome to My GitHub Page 📖  
 Specializes in crafting full-stack web applications, with a strong emphasis on cloud-native solutions powered by AWS. Equipped with expertise in managing robust infrastructure, developing efficient backend systems, and delivering dynamic, responsive front-end experiences.  
-I specialize in building full-stack web applications with a focus on cloud-native solutions powered by AWS. With expertise in managing scalable infrastructure, developing efficient backend systems, and delivering dynamic, responsive front-end experiences, I am passionate about creating impactful applications that solve real-world problems.
 
 - 🌍 **Location**: Baltimore🦀, Maryland 🇺🇸  
 - ✉️ **Contact**: [rajeshgautam766@yahoo.com](mailto:rajeshgautam766@yahoo.com)  
