@@ -3,7 +3,7 @@ Specializes in crafting full-stack web applications, with a strong emphasis on c
 
 - 🌍 **Location**: Baltimore🦀, Maryland 🇺🇸  
 - ✉️ **Contact**: [rajeshgautam766@yahoo.com](mailto:rajeshgautam766@yahoo.com)  
-- 🤝 **Let’s Connect**: Let’s Connect: Open to collaboration and exploring innovative ideas ⌨️ 
+- 🤝 **Let’s Connect**: Open to collaboration and exploring innovative ideas 🙌 
  
 
 ## 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://linkedin.com/in/rajesh-gautam-472511218) 
