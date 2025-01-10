@@ -1,4 +1,4 @@
-# 👋 Welcome to My GitHub Page 📖  
+# 👋 Hi 
 Specializes in crafting full-stack web applications, with a strong emphasis on cloud-native solutions powered by AWS. Equipped with expertise in managing robust infrastructure, developing efficient backend systems, and delivering dynamic, responsive front-end experiences.  
 
 - 🌍 **Location**: Baltimore🦀, Maryland 🇺🇸  
